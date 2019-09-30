@@ -1,0 +1,12 @@
+body {
+  font-family: 'Cinzel', serif;
+  background-image: url("images/alcohol-bar-beer-1283219-3.jpg");
+  color: whitesmoke;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+h1 {
+  font-family: 'Nosifer', cursive;
+}
