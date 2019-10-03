@@ -1,0 +1,32 @@
+/* styling for all pages */
+.all {
+  font-family: 'Cinzel', serif;
+  color: whitesmoke;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.bg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* home page background */
+.bar-background {
+  background-image: url("images/alcohol-bar-beer-1283219-3.jpg");
+}
+/* home page creepy font */
+.poison {
+  font-family: 'Nosifer', cursive;
+  margin-top: 10px;
+} 
+
+.ingredient-background {
+  background-image: url("images/alcohol-alcoholic-beverage-bar-602750.jpg");
+}
+
+.recipe-background {
+  background-image: url("images/drink-drinking-glass-glass-265704.jpg");
+}
