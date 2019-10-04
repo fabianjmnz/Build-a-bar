@@ -23,10 +23,20 @@
   margin-top: 10px;
 } 
 
-.ingredient-background {
-  background-image: url("images/alcohol-alcoholic-beverage-bar-602750.jpg");
-}
+.container{
+  height:auto;
+  width:auto;
 
-.recipe-background {
-  background-image: url("images/drink-drinking-glass-glass-265704.jpg");
+}
+img{
+ 
+  position: relative;
+  margin:auto;
+  left:35vw;
+  height:30vw;
+  width:30vw;
+ 
+}
+body{
+  background-color: black
 }
