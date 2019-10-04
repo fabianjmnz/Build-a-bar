@@ -13,13 +13,11 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 /* home page background */
 .bar-background {
   background-image: url("images/alcohol-bar-beer-1283219-3.jpg");
 }
-
-/* creepy font */
+/* home page creepy font */
 .poison {
   font-family: 'Nosifer', cursive;
   margin-top: 10px;
@@ -28,24 +26,17 @@
 .container{
   height:auto;
   width:auto;
-}
 
+}
 img{
+ 
   position: relative;
   margin:auto;
   left:35vw;
   height:30vw;
   width:30vw;
+ 
 }
-
 body{
   background-color: black;
-}
-
-ul {
-  list-style-type: none;
-}
-
-.bottom-buffer {
-  margin-bottom: 15px;
 }
