@@ -37,6 +37,16 @@ img{
   width:30vw;
  
 }
+
+
 body{
-  background-color: black;
+    position: relative;
+    margin:auto;
+    font-family: cursive; 
+    background-color: black;
+    color: white;
+}
+h1{
+    font-family: 'Nosifer', cursive;
+    font: italic;
 }
