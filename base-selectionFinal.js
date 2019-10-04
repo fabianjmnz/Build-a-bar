@@ -2,6 +2,9 @@
 var idnum = [];
 var  newlist = [];
 function getDrinks(keyword) {
+    
+
+
     document.getElementById("base-selection").style.display = "none";
     $.ajax({
         async: true,
@@ -138,3 +141,6 @@ function getDrinks(keyword) {
          })//end of foreach
         })
 }    
+function confirmRefresh() {
+  setTimeout("location.reload();",0);
+        }

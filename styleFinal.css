@@ -50,3 +50,9 @@ h1{
     font-family: 'Nosifer', cursive;
     font: italic;
 }
+a{
+    position:fixed;
+    font-size: 30px;
+    left:3vw;
+    top:2vw;
+}
